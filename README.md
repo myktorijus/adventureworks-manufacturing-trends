@@ -1,4 +1,4 @@
-<h1>Operations and Executive Production Analysis — AdventureWorks</h1>
+<h1>Manufacturing Trends in AdventureWorks</h1>
 
 <p>This repository contains two presentations and supporting Power BI reports based on the AdventureWorks dataset, focused on production operations analysis for different stakeholders.</p>
 
@@ -15,6 +15,13 @@
   <li>Operational analysis of production trends, costs, scrap, and inventory.</li>
   <li>Executive summary highlighting strategic risks and improvement opportunities.</li>
   <li>Interactive Power BI report to explore detailed metrics and trends.</li>
+</ul>
+
+<h2>Key Insights</h2>
+<ul>
+  <li><strong>Scrap is preventable</strong> - addresing preventable scrap reasons will save both cost and time</strong></li>
+  <li><strong>Imbalanced supply planning</strong> - inventory levels showed signs of overstocking in some areas</li>
+  <li><strong>Delivery performance is lagging</strong> - production were not keeping pace with sales</li>
 </ul>
 
 <h2>Tools</h2>
