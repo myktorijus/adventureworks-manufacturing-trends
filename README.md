@@ -13,7 +13,7 @@
 <h2>Summary</h2>
 <ul>
   <li>Operational analysis of production trends, costs, scrap, and inventory.</li>
-  <li>Executive summary highlighting strategic risks and improvement opportunities.</li>
+  <li>Presentations for Executive and Operations teams highlighting strategic risks and improvement opportunities.</li>
   <li>Interactive Power BI report to explore detailed metrics and trends.</li>
 </ul>
 
